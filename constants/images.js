@@ -17,6 +17,7 @@ const UserProfile7 = require("../assets/images/dummy_profiles/profile-pic-7.png"
 const UserProfile8 = require("../assets/images/dummy_profiles/profile-pic-8.png")
 const UserProfile9 = require("../assets/images/dummy_profiles/profile-pic-9.png")
 const UserProfile10 = require("../assets/images/dummy_profiles/profile-pic-10.png")
+const user = require("../assets/images/dummy_profiles/user.png")
 
 export default {
     loginBackground,
@@ -27,6 +28,7 @@ export default {
     laksa,
     nasiLemak,
 
+    user,
     UserProfile1,
     UserProfile2,
     UserProfile3,
